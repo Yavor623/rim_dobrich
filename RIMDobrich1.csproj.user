@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\User\source\repos\Yavor11a\RIMDobrich1\RIMDobrich1\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Artefactscs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssesmentProtocol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Collections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Materials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Queries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shapes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NameOfMuseum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Types.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
